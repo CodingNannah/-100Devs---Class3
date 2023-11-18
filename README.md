@@ -26,6 +26,9 @@ I realized after I named this that I will desire to git in-class AND homework pr
 A- https://docs.github.com/en/repositories/creating-and-managing-repositories/renaming-a-repository
 
 
+Q- What's the take on using <main>? 
+A- I ought to have checked here (https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main) FIRST. This is where I was led from my Q on the Discord Server. LOVE how fast I get answers there! TY!
+
 +++++++++ Additional Notes +++++++++++
 
 * Within the two html files are two ways to present a Search. Not sure which is best for SEO, loading, etc.
