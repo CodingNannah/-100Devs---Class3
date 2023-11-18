@@ -21,9 +21,12 @@ Q- Best methods for organizing files and folders?
 A- Use an image file for images. As I acquire more files, I can create more folders, including a resource folder that will include css, js, images, data, and other folders as the project expands.
 https://appcropolis.com/blog/organize-html-css-javascript-files
 
+Q- How do I rename a repository?
+I realized after I named this that I will desire to git in-class AND homework projects. I decided to rename this "homework".
+A- https://github.com/CodingNannah/100Devs-Class3-Homework
 
-++++++++++++++++++++++
-Additional Notes:
+
++++++++++ Additional Notes +++++++++++
 
 * Within the two html files are two ways to present a Search. Not sure which is best for SEO, loading, etc.
 
